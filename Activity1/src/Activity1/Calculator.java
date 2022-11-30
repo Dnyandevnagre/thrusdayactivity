@@ -29,7 +29,7 @@ public class Calculator {
 			System.out.println("invalid operation");
 			break;
 	}
-        System.out.println("The Output Is:"+output);
+        System.out.println("The Output Is:");
 	}
 
 }
